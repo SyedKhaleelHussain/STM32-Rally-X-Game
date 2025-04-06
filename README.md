@@ -1,4 +1,4 @@
-# 🚗 STM32 Rally-X Game  
+﻿# 🚗 STM32 Rally-X Game  
 *A classic arcade remake for STM32F107VC*  
 
 ## 📌 Features  
@@ -22,7 +22,7 @@
 3. Use joystick to move, collect flags for points!  
 
 ## 📸 Screenshots  
-![Gameplay](Images/gameplay.png)  
+
 
 ## 📜 License  
 MIT License - Free for academic use.  
